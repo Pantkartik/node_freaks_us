@@ -1,0 +1,7 @@
+1. Setting up parsers for form 
+2. Setting up ejs 
+3. Setting up public static files
+
+// Dynamic routing 
+1. Dynamic routing
+2. Get data from frontend routing to backend route
